@@ -1,0 +1,133 @@
+body {
+
+    background-size: 100%;
+    background-image: url("../img/oblaka.jpg") ;
+}
+a .link{
+    color: lavenderblush !important;
+}
+a .container-page,
+.link2{
+    color: #000 !important;
+}
+.catalogTable {
+    width: 100%;
+    margin: 1rem 0 3rem;
+    border-collapse: collapse;
+    font-size: 1.4rem;
+}
+.container-page{
+    background-color: lavender;
+    padding-top: 30px;
+    min-height: 600px;
+}
+.form-signin {
+    padding-top: 100px;
+    padding-bottom: 30px;
+    max-width: 450px;
+    margin: 0 auto;
+    -moz-outline-radius: 100px;
+}
+.form-google{
+    max-width: 450px;
+    margin: 0 auto;
+    -moz-outline-radius: 100px;
+}
+
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+    margin-bottom: 20px;
+}
+
+.form-signin-heading{
+    color: #000000;
+    text-align:  center;
+}
+.form-signin .checkbox {
+    font-weight: normal;
+}
+.form-signin .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 15px;
+    font-size: 16px;
+    border-color: #4a99b9;
+    border-radius: 5px;
+}
+.form-signin .form-control:focus {
+    border-color: #4a99b9;
+    z-index: 2;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(48, 147, 185, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(48, 147, 185, 0.6);
+}
+.form-signin input[type="email"] {
+    margin-bottom: 10px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.form-signin input[type="text"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.btn-primary{
+    background-color: #4a99b9 !important;
+    border-color: #3093b9 !important;
+    color: white;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:visited{
+    background-color: #4a99b9;
+    border-color: #3093b9;
+    color: white;
+}
+
+.login-form__sign-link {
+    color: #3093b9 !important;
+    margin-top: 25px;
+}
+.margin-bottom-large {
+    margin-bottom: 32px;
+}
+.font-medium {
+    font-size: 20px;
+}
+.btn {
+    font-family: 'Montserrat', Arial, sans-serif;
+    font-weight:700;
+    text-transform:uppercase;
+}
+.btn-primary {
+    color: #000000;
+    background-color: #3093b9;
+    border-color: #3093b9;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #ffffff;
+    background-color: #3093b9;
+    border-color: #3093b9;
+}
+.navbar {
+    margin: 15px 50px;
+}
+.subpage-head h3 {
+    color:#53504c;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: lavender!important;
+}
+.navbar-light .navbar-nav .nav-link.active{
+    color: #d6cafa !important;
+}

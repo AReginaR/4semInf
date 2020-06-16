@@ -1,0 +1,24 @@
+body{
+    background-image: url("/static/img/oblaka.jpg");
+}
+.btn {
+    font-family: 'Montserrat', Arial, sans-serif;
+    font-weight:700;
+    text-transform:uppercase;
+}
+.btn-primary {
+    color: #000000;
+    background-color: #3093b9;
+    border-color: #3093b9;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #ffffff;
+    background-color: #3093b9;
+    border-color: #3093b9;
+}
+.navbar {
+    margin: 15px 50px;
+}
+.subpage-head h3 {
+    color:#53504c;
+}
